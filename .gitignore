@@ -1,0 +1,14 @@
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+*.Rproj
+
+data/*.csv
+
+outputs/*.png
+outputs/*.jpg
+outputs/*.pdf
+
+.DS_Store
